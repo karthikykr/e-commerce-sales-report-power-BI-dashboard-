@@ -2,7 +2,7 @@
 This repository contains a Power BI report that provides comprehensive insights into sales performance across various metrics. The report is designed to help stakeholders understand sales trends, identify key drivers of performance, and make data-driven decisions to enhance sales strategies.
 
 
-![Snap shot of Dashboard]([(https://github.com/karthikykr/e-commerce-sales-report-power-BI-dashboard-/blob/main/image.png))]
+![Snap shot of Dashboard](https://github.com/karthikykr/e-commerce-sales-report-power-BI-dashboard-/blob/main/image.png)
 
 
 ##Features
